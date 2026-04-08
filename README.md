@@ -5,6 +5,7 @@ Use of diffusion models for images (game sprites) generation. Project includes:
 - Implementation of diffusion models (DM) using UNet architecture. 
 - DDPM & DDIM diffusions.
 - Conditional Diffusion Models (CDM).
+- Training and sampling of DM models.
 
 ## Code
 
